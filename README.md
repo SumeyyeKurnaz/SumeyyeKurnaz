@@ -37,7 +37,7 @@ I am a **Business Analyst** 📊 with 3 years of experience in the tourism softw
 
 ## 🔗 Connect with Me  
 - 📧 Email: [kurnazsumeyye.is@example.com](mailto:kurnazsumeyye.is@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sumeyyekurnaz]([https://linkedin.com/in/sumeyyekurnaz](https://www.linkedin.com/in/s%C3%BCmeyye-kurnaz-ab99641b8/))  
+- 💼 LinkedIn: [sumeyyekurnaz] (https://www.linkedin.com/in/s%C3%BCmeyye-kurnaz-ab99641b8/)
 
 Thank you for visiting my profile! 🌟  
 Join me on this journey! 🚀✨
