@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👩‍💻 Sümeyye Kurnaz  
 
-<!--
-**SumeyyeKurnaz/SumeyyeKurnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello! Welcome to my GitHub profile! 😊**  
 
-Here are some ideas to get you started:
+I am a **Business Analyst** 📊 with 3 years of experience in the tourism software industry. I am currently improving myself to become a **Data Analyst** 📈.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🎓 Graduated in Management Information Systems from **Akdeniz University**.  
+- 🎓 Studied Public Relations and Advertising at **Anadolu University**.  
+- 🏫 Actively participated in student clubs during my university years.  
+
+## 🎯 My Goals  
+- Become a successful **Data Analyst** 🛡️.  
+- Use **advanced SQL**, **Python**, and **Power BI** for data analysis.  
+
+## ✨ Skills  
+- **Languages**:  
+  - **Turkish**: Native 🇹🇷  
+  - **English**: B1 level 🇬🇧  
+- **Tools**: Excel, Power BI, JIRA, CRM tools.  
+- **Soft Skills**:  
+  - Communication  
+  - Problem-solving  
+  - Teamwork  
+  - Analytical Thinking  
+  - Attention to Detail  
+  - Time Management  
+  - Adaptability  
+  - Critical Thinking  
+  - Collaboration  
+  - Presentation Skills  
+  - Conflict Resolution  
+
+## 📚 Current Learning  
+- **Courses**: Online training on data analysis 📘.  
+- **Projects**: CRM analysis projects for my portfolio.  
+
+## 🔗 Connect with Me  
+- 📧 Email: [kurnazsumeyye.is@example.com](mailto:kurnazsumeyye.is@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/sumeyyekurnaz](https://linkedin.com/in/sumeyyekurnaz)  
+
+Thank you for visiting my profile! 🌟  
+Join me on this journey! 🚀✨
+
