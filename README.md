@@ -36,7 +36,7 @@ I am a **Business Analyst** 📊 with 3 years of experience in the tourism softw
 - **Projects**: CRM analysis projects for my portfolio.  
 
 ## 🔗 Connect with Me  
-- 📧 Email: [kurnazsumeyye.is@example.com](mailto:kurnazsumeyye.is@example.com)  
+- 📧 Email: [kurnazsumeyye.is@example.com](mailto:kurnazsumeyye.is@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sumeyyekurnaz](https://linkedin.com/in/sumeyyekurnaz)  
 
 Thank you for visiting my profile! 🌟  
